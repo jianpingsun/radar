@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="10" Connection="1" SerialNo="0" IP="" TargetDevice="STM32F407IG" TargetInterface="JTAG" InterfaceSpeed="15000" />
+            </JLink>
+            <ElfFile Name="E:\projects\radar_test\project\Debug\Exe\radar_test.out" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="1000000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="testData" Address="0x20014341" Type="uchar" TypeID="6" Size="1" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="0" YMaxSampled="1" YAvgSampled="0" Offset="4" ShowInGraph="1" YOffset="200" IsAutoConfig="1" YResolution="1" MaxValue="5" File="E:\projects\radar_test\user\APP\APP.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>

@@ -1,0 +1,15 @@
+"D:\IAR Systems\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\arm\bin\armjlink2.dll" 
+
+"E:\projects\Software\radar_test\project\Debug\Exe\radar_test.out" 
+
+--plugin "D:\IAR Systems\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Systems\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\IAR Systems\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
